@@ -40,6 +40,17 @@ pnpm start
 
 Access the application in your web browser at http://localhost:3000.
 
+# Deploy to Vercel
+. Fork https://github.com/NoteScan/N-Deployer to your Github.
+
+. Create a new project on Vercel.
+
+. Import and deploy on Vercel.
+
+### Demo
+https://n-deployer-test.vercel.app/
+
+
 # Licence
 
 [MIT](./LICENSE)
