@@ -43,6 +43,8 @@ Access the application in your web browser at http://localhost:3000.
 # Deploy to Vercel
 . Fork https://github.com/NoteScan/N-Deployer to your Github.
 
+. Modify data/siteMetadata.js, change site title, email, twitter, youtube, etc...
+
 . Create a new project on Vercel.
 
 . Import and deploy on Vercel.
