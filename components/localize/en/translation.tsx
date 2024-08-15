@@ -13,6 +13,7 @@ export const enTranslation = {
   desc: 'Description [Extended optional attribute]',
   web: 'Website [Extended optional attribute]',
   logo: 'Logo [Extended optional attribute]',
+  notice: 'Note: Due to the NOTE protocol, the deploy operation requires sign twice',
 }
 
 export default enTranslation

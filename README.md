@@ -6,6 +6,10 @@ Deploy your own token of <a href="https://noteprotocol.org/">NOTE Protocol</a>.
 
 Support connect to NOTE BTC network via ChainBow Wallet, Unisat Wallet and NOTEMarket Wallet (via <a href='https://github.com/NoteScan/n20-connect'>n20-connect</a>).
 
+# Demo on Vercel
+https://n-deployer-demo.vercel.app/
+
+
 # Installation
 Clone the repository to your computer and navigate to the directory:
 

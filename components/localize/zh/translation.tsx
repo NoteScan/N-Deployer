@@ -13,6 +13,7 @@ export const zhTranslation = {
   desc: '描述 [可选扩展属性]',
   web: '官网 [可选扩展属性]',
   logo: 'Logo [可选扩展属性]',
+  notice: '注意: 由于NOTE协议的特性，发币操作需要签名两次',
 }
 
 export default zhTranslation

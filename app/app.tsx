@@ -298,7 +298,9 @@ function App() {
               <div
                 className="w-full border-0 bg-white px-0 font-mono text-sm text-gray-900 focus:ring-0 dark:bg-gray-800 dark:text-white dark:placeholder-gray-400"
                 id="notice"
-              ></div>
+              >
+                {t('notice')}
+              </div>
             </div>
           </div>
           <div className="36 mb-4 w-full truncate rounded-lg border border-gray-200 bg-gray-50 dark:border-gray-600 dark:bg-gray-700">
