@@ -53,9 +53,6 @@ Access the application in your web browser at http://localhost:3000.
 
 . Import and deploy on Vercel.
 
-### Demo
-https://n-deployer-test.vercel.app/
-
 
 # Licence
 
